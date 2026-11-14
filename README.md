@@ -2,6 +2,8 @@
 
 **How good is that AI answer?**
 
+**[Try the live demo](https://verity-ai-evaluation.streamlit.app)** · **[Read the product case study](CASE_STUDY.md)**
+
 Verity is a general-purpose, human-led Streamlit application for comparing two AI-generated responses against five quality criteria. It is an educational portfolio prototype, **not an automated fact-checker or clinically validated tool**.
 
 ## What it does
